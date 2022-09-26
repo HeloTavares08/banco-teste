@@ -8,5 +8,6 @@ sexo varchar (2),
 data_nasc date,
 endereco varchar (20),
 cep varchar (20),
+cpf varchar (20),
 primary key (id_cliente)
 )default charset= utf8;
